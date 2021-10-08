@@ -1,0 +1,2 @@
+C:\Users\Snow\Downloads\VIRUSES\axon whatever\src\Axenta\obj\x64\Debug\Axenta.csproj.AssemblyReference.cache
+C:\Users\Snow\Downloads\VIRUSES\axon whatever\src\Axenta\obj\x64\Debug\Axenta.csproj.CoreCompileInputs.cache
